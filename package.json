@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "express": "^4.19.2",
+    "cors": "^2.8.5",
     "groq-sdk": "^0.6.0"
   },
   "engines": {
